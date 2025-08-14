@@ -18,5 +18,5 @@ MD3E Components is a library of Material 3 Expressive Web Components
 | Progress Indicators | N/A | [progress-indicators.js](/components/progress-indicators.js) |
 | Sliders | N/A | [sliders.js](/components/sliders.js) |
 | Split Button | v0.0.1 | [split-button.js](/components/split-button.js) |
-| Tool Bars | N/A | [toolbars.js](/components/toolbars.js) |
+| Tool Bars | v0.0.1 | [toolbars.js](/components/toolbars.js) |
 </div>
